@@ -1,0 +1,36 @@
+
+F
+java:S3740"/Provide the parametrized type for this generic.(´Ù¯Ô
+K
+java:S3740”"/Provide the parametrized type for this generic.(ÆÍ´‚üÿÿÿÿ
+F
+java:S3740•"/Provide the parametrized type for this generic.(™˜ÃÅ
+
+java:S1488‰"cImmediately return this expression instead of assigning it to the temporary variable "productDtos".(ÚÂ ¡üÿÿÿÿ
+z
+java:S1488œ"cImmediately return this expression instead of assigning it to the temporary variable "productDtos".(ÜÛîß
+h
+java:S2259b"RA "NullPointerException" could be thrown; "getOriginalFilename()" can return null.(å®¬î
+k
+java:S3655X"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(ö¶úšûÿÿÿÿ
+e
+java:S3655E"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(Ââ2
+W
+java:S2209,"5Change this instance-reference to a static reference.(ÌÚ«öşÿÿÿÿ8ÚÔÄ²ö0
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(ÇÎÄš
+N	java:S106a"9Replace this use of System.out or System.err by a logger.(œÚş
+=
+java:S1125e"'Remove the unnecessary boolean literal.(‰ÂÔŞ
+W
+java:S2209g"5Change this instance-reference to a static reference.(ıÁŸÈıÿÿÿÿ8ßÔÄ²ö0
+N	java:S106h"9Replace this use of System.out or System.err by a logger.(ŸÍ‡
+J
+java:S1874w"/Remove this use of "getById"; it is deprecated.(€£ºüÿÿÿÿ
+J
+java:S1874"/Remove this use of "getById"; it is deprecated.(€£ºüÿÿÿÿ
+K
+java:S1874±"/Remove this use of "getById"; it is deprecated.(ìÄ¥Ûúÿÿÿÿ
+i
+java:S6204Æ"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(Æô´†
+]
+java:S1128"ARemove this unused import 'com.ecommerce.library.model.Category'.(®¯êy8²âĞ¬ö0

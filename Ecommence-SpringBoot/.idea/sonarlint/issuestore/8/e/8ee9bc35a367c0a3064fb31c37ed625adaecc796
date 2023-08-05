@@ -1,0 +1,12 @@
+
+a
+java:S11924"KDefine a constant instead of duplicating this literal "totalItems" 3 times.(”˜ÁÃ
+h
+java:S11923"MDefine a constant instead of duplicating this literal "shoppingCart" 3 times.(ÎûÙëûÿÿÿÿ
+W
+java:S1854>":Remove this useless assignment to local variable "orders".(Ñ´ÅÔ8“®µö0
+^
+java:S4488%"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(»É»·
+H
+java:S1481>"+Remove this unused "orders" local variable.(Ñ´ÅÔ8–®µö0
+N	java:S106]"9Replace this use of System.out or System.err by a logger.(âíêÒ

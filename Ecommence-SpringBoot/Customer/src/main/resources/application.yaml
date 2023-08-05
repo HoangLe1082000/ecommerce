@@ -1,0 +1,19 @@
+spring:
+  mail:
+    default-encoding: UTF-8
+    host: smtp.gmail.com
+    port: 587
+    username: leviethoang1082000@gmail.com
+    password: lwigmosptyivavza
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+              enable: true
+        debug : true
+    test-connection: false
+    protocol: smtp
+
+
+

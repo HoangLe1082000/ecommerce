@@ -1,0 +1,5 @@
+
+j	java:S116"URename this field "is_deleted" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ßÉÄÃ
+s	java:S116"WRename this field "is_activated" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¯ëĞä8©ú‘ô0
+i
+java:S1128"GRemove this unused import 'org.hibernate.validator.constraints.Length'.(Ê—œªÿÿÿÿÿ8„§Ó¾ô0

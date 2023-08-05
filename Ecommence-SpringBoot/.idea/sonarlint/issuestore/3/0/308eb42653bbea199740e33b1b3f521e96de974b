@@ -1,0 +1,24 @@
+
+]
+java:S1128"ARemove this unused import 'com.ecommerce.library.model.Category'.(®¯êy8İ˜±Øô0
+l
+java:S1128"JRemove this unused import 'com.ecommerce.library.service.CategoryService'.(øÜÑÏøÿÿÿÿ8Ş˜±Øô0
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Autowired'.(¡¸Îùÿÿÿÿ8Ş˜±Øô0
+p
+java:S1128"TRemove this unused import 'org.springframework.dao.DataIntegrityViolationException'.(ÅÔº(8Ş˜±Øô0
+[
+java:S1128"9Remove this unused import 'org.springframework.ui.Model'.(ê†ıÿÿÿÿ8Ş˜±Øô0
+l
+java:S1128	"ORemove this unused import 'org.springframework.web.bind.annotation.GetMapping'.(‡¡‰Ø8Ş˜±Øô0
+p
+java:S1128
+"SRemove this unused import 'org.springframework.web.bind.annotation.ModelAttribute'.(®ùæé8Ş˜±Øô0
+r
+java:S1128"PRemove this unused import 'org.springframework.web.bind.annotation.PostMapping'.(äƒà°ùÿÿÿÿ8ß˜±Øô0
+x
+java:S1128"[Remove this unused import 'org.springframework.web.servlet.mvc.support.RedirectAttributes'.(ìçÚË8ß˜±Øô0
+P
+java:S1128"4Remove this unused import 'java.security.Principal'.(’ÛŞ[8ß˜±Øô0
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ß˜±Øô0

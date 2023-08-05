@@ -1,0 +1,19 @@
+
+k
+java:S1192A"IDefine a constant instead of duplicating this literal "adminDto" 4 times.(ÅÉÒ‰øÿÿÿÿ8òóü½ô0
+k
+java:S11923"IDefine a constant instead of duplicating this literal "register" 5 times.(ã‹¥œúÿÿÿÿ8òóü½ô0
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(¾¨‡”ùÿÿÿÿ8‰ôü½ô0
+U	java:S106J"9Replace this use of System.out or System.err by a logger.(öÚ£Ä8Šôü½ô0
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(ŸÈäÑûÿÿÿÿ8‹ôü½ô0
+T	java:S106U"9Replace this use of System.out or System.err by a logger.(Øù;8Œôü½ô0
+]
+java:S1128"ARemove this unused import 'com.ecommerce.library.model.Category'.(®¯êy8´Š™Øô0
+Y
+java:S1128"=Remove this unused import 'jakarta.servlet.http.HttpSession'.(Çê°8´Š™Øô0
+S
+java:S1128	"6Remove this unused import 'jakarta.websocket.Session'.(‡×©ò8´Š™Øô0
+€
+java:S1128"^Remove this unused import 'org.springframework.security.authentication.AuthenticationManager'.(ğş–şÿÿÿÿ8´Š™Øô0
+x
+java:S1128"[Remove this unused import 'org.springframework.web.servlet.mvc.support.RedirectAttributes'.(ìçÚË8µŠ™Øô0

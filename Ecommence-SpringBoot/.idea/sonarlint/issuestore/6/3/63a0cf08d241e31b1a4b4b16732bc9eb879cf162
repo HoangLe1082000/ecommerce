@@ -1,0 +1,14 @@
+
+k
+java:S3655,"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(þ‡Ü¼ûÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(€†¤¾üÿÿÿÿ
+k
+java:S1128"PRemove this unused import 'com.ecommerce.library.repository.CustomerRepository'.(Ì¹Å¤øÿÿÿÿ
+e
+java:S1128"JRemove this unused import 'com.ecommerce.library.service.CustomerService'.(½ÓíÎúÿÿÿÿ
+]
+java:S1128"GRemove this unused import 'com.ecommerce.library.service.OrderService'.(áç¨÷
+P
+java:S1128"5Remove this unused import 'jakarta.validation.Valid'.(ÀãÅ”ûÿÿÿÿ
+n
+java:S1128"QRemove this unused import 'org.springframework.mail.javamail.JavaMailSenderImpl'.(†ÇÁ¤8í—Ì‡÷0
